@@ -1,0 +1,13 @@
+# Ignore Kaggle datasets and archives
+archive.zip
+archive/
+creditcard.csv
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
